@@ -1,6 +1,6 @@
 # 🔥 ColorForge
 
-**Modern color palette generator for designers. Generate complementary, analogous, triadic, and monochromatic color schemes instantly
+** Modern color palette generator for designers. Generate complementary, analogous, triadic, and monochromatic color schemes instantly
 
 ## Features
 
