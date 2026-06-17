@@ -1,4 +1,4 @@
-# 🔥 ColorForge
+# <img src="public/logo.png" width="32" height="32" align="center" /> ColorForge
 
 **ColorForge** is a modern React + Vite color palette generator with glassmorphism UI.
 
