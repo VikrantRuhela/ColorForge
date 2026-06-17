@@ -1,4 +1,4 @@
-# <img src="public/logo.png" width="32" height="32" align="center" /> ColorForge
+# <img src="public/logo.svg" width="32" height="32" align="center" /> ColorForge
 
 ## Modern color palette generator for designers. Generate complementary, analogous, triadic, and monochromatic color schemes instantly
 
