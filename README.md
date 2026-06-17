@@ -1,6 +1,6 @@
 # 🔥 ColorForge
 
-**ColorForge** is a modern React + Vite color palette generator with glassmorphism UI.
+**Modern color palette generator for designers. Generate complementary, analogous, triadic, and monochromatic color schemes instantly
 
 ## Features
 
