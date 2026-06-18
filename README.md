@@ -1,6 +1,13 @@
 # <img src="public/logo.svg" width="32" height="32" align="center" /> ColorForge
 
+> 🚀 **Live Demo:** [https://colorforge-two.vercel.app](https://colorforge-two.vercel.app)
+
 ## Modern color palette generator for designers. Generate complementary, analogous, triadic, and monochromatic color schemes instantly
+
+## Preview
+
+![ColorForge Dashboard](public/screenshots/hero.png)
+![ColorForge Palette Generation](public/screenshots/palette.png)
 
 ## Features
 
